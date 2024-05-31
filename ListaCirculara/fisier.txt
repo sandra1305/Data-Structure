@@ -1,0 +1,16 @@
+15
+1234 Bali Bucuresti 2023-08-15 2
+5678 Paris Cluj-Napoca 2023-09-10 1
+9012 Roma Timisoara 2023-07-20 3
+3456 Barcelona Iasi 2023-08-05 2
+7890 Londra Constanta 2023-09-01 1
+2345 Dubai Sibiu 2023-07-25 4
+6789 Tokyo Brasov 2023-08-10 2
+90123 NewYork Oradea 2023-09-15 7
+4567 Sydney Bacau 2023-07-30 3
+8901 Bangkok Arad 2023-08-20 2
+2345 Viena Suceava 2023-09-05 1
+6789 Berlin Craiova 2023-07-10 4
+3561 Amsterdam Targu-Mures 2023-08-01 2
+4567 Madrid Galati 2023-09-25 1
+8901 Cairo Deva 2023-07-15 8
